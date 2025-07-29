@@ -1,4 +1,5 @@
-opencv-python
-numpy
-tensorflow
+
+opencv-python==4.12.0
+numpy==1.24.4
+tensorflow==2.12.0
 pytest
